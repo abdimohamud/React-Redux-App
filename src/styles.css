@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.text-box {
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+
+.countries {
+  display: flex;
+  justify-content: center;
+  padding-top: 2.55%;
+}
+
+.resultsCont {
+  margin-right: 5%;
+  margin-left: 5%;
+  border: 2px solid;
+  background-color: #f8f8ff;
+}
